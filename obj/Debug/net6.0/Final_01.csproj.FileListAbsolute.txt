@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\Програмирование\VSC\Final_01\bin\Debug\net6.0\Final_01.exe
+C:\Users\User\Desktop\Програмирование\VSC\Final_01\bin\Debug\net6.0\Final_01.deps.json
+C:\Users\User\Desktop\Програмирование\VSC\Final_01\bin\Debug\net6.0\Final_01.runtimeconfig.json
+C:\Users\User\Desktop\Програмирование\VSC\Final_01\bin\Debug\net6.0\Final_01.dll
+C:\Users\User\Desktop\Програмирование\VSC\Final_01\bin\Debug\net6.0\Final_01.pdb
+C:\Users\User\Desktop\Програмирование\VSC\Final_01\obj\Debug\net6.0\Final_01.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Програмирование\VSC\Final_01\obj\Debug\net6.0\Final_01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Програмирование\VSC\Final_01\obj\Debug\net6.0\Final_01.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Програмирование\VSC\Final_01\obj\Debug\net6.0\Final_01.AssemblyInfo.cs
+C:\Users\User\Desktop\Програмирование\VSC\Final_01\obj\Debug\net6.0\Final_01.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Програмирование\VSC\Final_01\obj\Debug\net6.0\Final_01.dll
+C:\Users\User\Desktop\Програмирование\VSC\Final_01\obj\Debug\net6.0\refint\Final_01.dll
+C:\Users\User\Desktop\Програмирование\VSC\Final_01\obj\Debug\net6.0\Final_01.pdb
+C:\Users\User\Desktop\Програмирование\VSC\Final_01\obj\Debug\net6.0\Final_01.genruntimeconfig.cache
+C:\Users\User\Desktop\Програмирование\VSC\Final_01\obj\Debug\net6.0\ref\Final_01.dll
